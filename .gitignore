@@ -1,0 +1,14 @@
+/bin/
+/.settings/
+.classpath
+.project
+*~
+.cache
+.DS_Store
+.cache-main
+.cache-tests
+/target/
+/project/target/
+/project/project/target/
+/dummy.output
+/aa
